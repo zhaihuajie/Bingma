@@ -30,7 +30,6 @@
 	}
 </script>
 </body>
-</html>
 ### 解码器
 <head>
 	<meta charset="UTF-8">
@@ -62,6 +61,5 @@
 	}
 </script>
 </body>
-</html>
 ### 有事练习QQ:3211718306
 ##### [整活，嗨害嗨](https://www.kuwo.cn/play_detail/140075087)
