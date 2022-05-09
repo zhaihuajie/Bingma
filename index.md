@@ -4,7 +4,6 @@
 	<meta charset="UTF-8">
 	<title>编码器（网页版）</title>
 </head>
-<body>
 <div>
 	<input name="weibianma" type="text" placeholder="请输入未编码的字符串"><br>
 	<button onclick="calc()">编码</button>
@@ -29,13 +28,11 @@
 		document.getElementsByTagName('p')[0].innerText=str;
 	}
 </script>
-</body>
 ### 解码器
 <head>
 	<meta charset="UTF-8">
 	<title>（网页版）</title>
 </head>
-<body>
 <div>
 	<input name="weibianma" type="text" placeholder="请输入未编码的字符串"><br>
 	<button onclick="calc()">编码</button>
@@ -60,6 +57,5 @@
 		document.getElementsByTagName('p')[0].innerText=str;
 	}
 </script>
-</body>
 ### 有事练习QQ:3211718306
 ##### [整活，嗨害嗨](https://www.kuwo.cn/play_detail/140075087)
