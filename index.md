@@ -30,7 +30,7 @@
 	}
 </script>
 </body>
-	</html>
+</html>
 ### 解码器
 <head>
 	<meta charset="UTF-8">
