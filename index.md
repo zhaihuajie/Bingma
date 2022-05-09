@@ -1,6 +1,5 @@
 ## Welcome to 饼码！
-### [编码器](https://zhaihuajie.github.io/bianma/编码.html)
-<html lang="en">
+### 编码器
 <head>
 	<meta charset="UTF-8">
 	<title>编码器（网页版）</title>
@@ -31,9 +30,8 @@
 	}
 </script>
 </body>
-</html>
-### [解码器](https://zhaihuajie.github.io/jiema/解码.html)
-<html lang="en">
+	</html>
+### 解码器
 <head>
 	<meta charset="UTF-8">
 	<title>（网页版）</title>
