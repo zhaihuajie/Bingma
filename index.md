@@ -1,7 +1,5 @@
 ## Welcome to 饼码！
 ### [编码器](https://zhaihuajie.github.io/bianma/编码.html)
-#### 开源
-`<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -33,11 +31,8 @@
 	}
 </script>
 </body>
-</html>`
+</html>
 ### [解码器](https://zhaihuajie.github.io/jiema/解码.html)
-#### 开源
-`<!DOCTYPE html>
-
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -69,6 +64,6 @@
 	}
 </script>
 </body>
-</html>`
+</html>
 ### 有事练习QQ:3211718306
 ##### [整活，嗨害嗨](https://www.kuwo.cn/play_detail/140075087)
